@@ -1,0 +1,28 @@
+
+‡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌÆ’ûÿÿÿÿRMINORZ
+CODE_SMELL
+‚	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä·×öRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ï‹ÂûÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ®÷ĞıÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Šå¬ƒÿÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(«–â³RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Áå¨ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+M	java:S131""Add a default case to this switch.(¨ÕÉRCRITICALZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‘ˆáùÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(¤ÔÆèRMAJORZ
+CODE_SMELL
+f	java:S106!"9Replace this use of System.out or System.err by a logger.(ÚÇÚ³şÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106&"9Replace this use of System.out or System.err by a logger.(•·ûõûÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106+"9Replace this use of System.out or System.err by a logger.(—ƒíRMAJORZ
+CODE_SMELL

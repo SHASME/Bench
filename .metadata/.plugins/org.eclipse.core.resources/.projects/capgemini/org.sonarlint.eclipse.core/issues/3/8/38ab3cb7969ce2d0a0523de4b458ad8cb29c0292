@@ -1,0 +1,12 @@
+
+
+java:S1192	"SDefine a constant instead of duplicating this literal "ProductDevelopment" 4 times.(ÍĞÔáRCRITICALZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ş…ûÿÿÿÿRMINORZ
+CODE_SMELL
+š
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ÿÿÿÿÿRMINORZ
+CODE_SMELL
+X
+java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿRMINORZ
+CODE_SMELL

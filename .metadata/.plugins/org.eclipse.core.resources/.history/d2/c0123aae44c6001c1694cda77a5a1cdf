@@ -1,0 +1,9 @@
+package assignment;
+
+public class EmailOperations {
+
+	public EmailOperations() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

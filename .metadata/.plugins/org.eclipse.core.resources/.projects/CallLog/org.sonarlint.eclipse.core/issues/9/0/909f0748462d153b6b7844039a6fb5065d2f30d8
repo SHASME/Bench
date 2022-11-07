@@ -1,0 +1,16 @@
+
+]
+java:S1197"*Move the array designators [] to the type.(»™Ö8œôÆ¾0HğRRMINORZ
+CODE_SMELL
+g
+java:S3740)"/Provide the parametrized type for this generic.(»ûß¢ıÿÿÿÿ8üµâÆ¾0HóRRMAJORZ
+CODE_SMELL
+b
+java:S3740%"/Provide the parametrized type for this generic.(”½Àä8üµâÆ¾0HôRRMAJORZ
+CODE_SMELL
+
+java:S1192"KDefine a constant instead of duplicating this literal "0422201430" 5 times.(±ºí8üµâÆ¾0HõRRCRITICALZ
+CODE_SMELL
+Š
+java:S1192"TDefine a constant instead of duplicating this literal "18-10-2015 16:08:01" 4 times.(×ˆ‘À8üµâÆ¾0HûRRCRITICALZ
+CODE_SMELL

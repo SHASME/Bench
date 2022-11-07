@@ -1,0 +1,15 @@
+
+‚
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‡¡åðRMINORZ
+CODE_SMELL
+‚	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä·×öRMINORZ
+CODE_SMELL
+v
+java:S3973"JUse indentation to denote the code conditionally executed by this "while".(ÊÇü¼RCRITICALZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(‚õ¼ÄþÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(‚õ¼ÄþÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢ÛßüÿÿÿÿRMAJORZ
+CODE_SMELL

@@ -1,0 +1,16 @@
+
+z	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®ô‡»üÿÿÿÿRMINORZ
+CODE_SMELL
+[
+java:S1199	"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿRMINORZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûá ŸÿÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(…ùŸàıÿÿÿÿRMAJORZ
+CODE_SMELL
+`	java:S106"9Replace this use of System.out or System.err by a logger.(À®ùRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(Àš¸RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(—˜ê€üÿÿÿÿRMAJORZ
+CODE_SMELL

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/main" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/test" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/test" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" sourcepath="C:/Users/SHASME/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="dom4j-1.6.1.jar"/>
+			<attribute name="maven.groupId" value="dom4j"/>
+			<attribute name="maven.artifactId" value="dom4j"/>
+			<attribute name="maven.version" value="1.6.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" sourcepath="C:/Users/SHASME/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/SHASME/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+			<attribute name="maven.groupId" value="org.hibernate.javax.persistence"/>
+			<attribute name="maven.artifactId" value="hibernate-jpa-2.1-api"/>
+			<attribute name="maven.version" value="1.0.0.Final"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.m2/repository/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13.jar" sourcepath="C:/Users/SHASME/.m2/repository/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/SHASME/.m2/repository/org/aspectj/aspectjweaver/1.8.13/aspectjweaver-1.8.13-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="aspectjweaver-1.8.13.jar"/>
+			<attribute name="maven.groupId" value="org.aspectj"/>
+			<attribute name="maven.artifactId" value="aspectjweaver"/>
+			<attribute name="maven.version" value="1.8.13"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.m2/repository/org/springframework/data/spring-data-jpa/2.0.6.RELEASE/spring-data-jpa-2.0.6.RELEASE.jar" sourcepath="C:/Users/SHASME/.m2/repository/org/springframework/data/spring-data-jpa/2.0.6.RELEASE/spring-data-jpa-2.0.6.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/SHASME/.m2/repository/org/springframework/data/spring-data-jpa/2.0.6.RELEASE/spring-data-jpa-2.0.6.RELEASE-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="spring-data-jpa-2.0.6.RELEASE.jar"/>
+			<attribute name="maven.groupId" value="org.springframework.data"/>
+			<attribute name="maven.artifactId" value="spring-data-jpa"/>
+			<attribute name="maven.version" value="2.0.6.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.6.RELEASE/f8f4420f268b054db12bf0dc7128adc09ab39a7/spring-context-5.2.6.RELEASE.jar" sourcepath="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.6.RELEASE/710c0b1a12af563b54d961eec9505b8e5dd399c/spring-context-5.2.6.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE.jar" sourcepath="C:/Users/SHASME/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/SHASME/.m2/repository/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="spring-beans-5.0.5.RELEASE.jar"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-beans"/>
+			<attribute name="maven.version" value="5.0.5.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.5.11/4cfed457808f346b7190d9265699bde2f4b60adf/spring-data-jpa-2.5.11.jar" sourcepath="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/2.5.11/5e2cc3ae516326cba47d0d8757d70a3bda04afe9/spring-data-jpa-2.5.11-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.19.0/f64cb5690b85e68d5e1e6c6152bfb6e3840a452d/assertj-core-3.19.0.jar" sourcepath="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.19.0/9880348818f6890a6cfb6e54815fedb00de58c1a/assertj-core-3.19.0-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger2/2.7.0/dd28b7ce26af1209d6ef19f5f24a8c23b41ca6fc/springfox-swagger2-2.7.0.jar" sourcepath="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger2/2.7.0/e762b5455f5672d88c3b80a1c86dc9e7d9da78da/springfox-swagger2-2.7.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spring-web/2.7.0/a54be5572b6b5210f6892e13d6b136dde5e96bf6/springfox-spring-web-2.7.0.jar" sourcepath="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spring-web/2.7.0/22965a44da8e4229a1adec51aa1976a4c1107e69/springfox-spring-web-2.7.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spi/2.7.0/dab14edcb863dd506278dc950908b4f684e93b7/springfox-spi-2.7.0.jar" sourcepath="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-spi/2.7.0/8008de35155b41cd8caba6ab87e59016d7d325de/springfox-spi-2.7.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-core/2.7.0/f3e6d1cf5170b4b56ee0a00c1b3b05221f2ecb96/springfox-core-2.7.0.jar" sourcepath="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-core/2.7.0/b5ca116ad7ffbac90027f78ccd4ce14aace5f790/springfox-core-2.7.0-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.19/cdffc649d28d360d5891244e45277aa135ac647d/spring-web-5.3.19.jar" sourcepath="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.19/1c923e9c4cbea7955403ce61b165c696ca3aba01/spring-web-5.3.19-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE.jar" sourcepath="C:/Users/SHASME/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/SHASME/.m2/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="spring-boot-autoconfigure-2.0.1.RELEASE.jar"/>
+			<attribute name="maven.groupId" value="org.springframework.boot"/>
+			<attribute name="maven.artifactId" value="spring-boot-autoconfigure"/>
+			<attribute name="maven.version" value="2.0.1.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.5.13/fe1fcebfdbaece65bb356b6c84725060dade055c/spring-boot-2.5.13.jar" sourcepath="C:/Users/SHASME/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.5.13/d1ec2a56d2e319d3417fd3021195941f0322b232/spring-boot-2.5.13-sources.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>

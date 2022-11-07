@@ -1,0 +1,38 @@
+
+ƒ
+java:S1104	"RMake salary a static final constant or non-public and provide accessors if needed.( ¿“™ÿÿÿÿÿHì@RMINORZ
+CODE_SMELL
+ƒ
+java:S62040"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(˜ıÌèúÿÿÿÿHí@RMAJORZ
+CODE_SMELL
+“
+java:S4165"bRemove this useless assignment; "name" already holds the assigned value along all execution paths.(É´“ıÿÿÿÿHî@RMAJORZ
+CODE_SMELL
+H
+java:S1116("Remove this empty statement.(ÁÔ‘’Hï@RMINORZ
+CODE_SMELL
+Y
+java:S1656"/Remove or correct this useless self-assignment.(İè¨òıÿÿÿÿHñ@RMAJORZBUG
+Y
+java:S1656"/Remove or correct this useless self-assignment.(É´“ıÿÿÿÿHò@RMAJORZBUG
+V
+java:S14815"*Remove this unused "count" local variable.(æÕ¿¼Hó@RMINORZ
+CODE_SMELL
+•
+java:S4165"dRemove this useless assignment; "salary" already holds the assigned value along all execution paths.(İè¨òıÿÿÿÿHõ@RMAJORZ
+CODE_SMELL
+|
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾Hö@RMINORZ
+CODE_SMELL
+m
+java:S11267"AReplace this if-then-else statement by a single return statement.(Ñû‚ğH÷@RMINORZ
+CODE_SMELL
+ƒ
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(‚ßÃ¿şÿÿÿÿHø@RMAJORZ
+CODE_SMELL
+}
+java:S39739"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿHù@RCRITICALZ
+CODE_SMELL
+v
+java:S39737"GUse indentation to denote the code conditionally executed by this "if".(Ñû‚ğHû@RCRITICALZ
+CODE_SMELL

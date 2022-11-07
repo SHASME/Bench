@@ -1,0 +1,13 @@
+
+‹
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰Hæ@RMAJORZ
+CODE_SMELL
+V
+java:S1197"*Move the array designators [] to the type.(åñâHç@RMINORZ
+CODE_SMELL
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¹ó÷ûÿÿÿÿHê@RMAJORZ
+CODE_SMELL
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(•«ÉÚüÿÿÿÿHë@RMAJORZ
+CODE_SMELL

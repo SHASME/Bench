@@ -1,0 +1,15 @@
+
+‚	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ºÞùRMINORZ
+CODE_SMELL
+v
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÙÍÒÊûÿÿÿÿRBLOCKERZBUG
+w
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(—íÛƒøÿÿÿÿRBLOCKERZBUG
+o
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Š·ÃïúÿÿÿÿRMINORZ
+CODE_SMELL
+j
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(„îèäRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(Â­ŠËùÿÿÿÿRMAJORZ
+CODE_SMELL

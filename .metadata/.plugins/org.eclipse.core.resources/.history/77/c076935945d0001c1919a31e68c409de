@@ -1,0 +1,10 @@
+package capgemini;
+
+public class ExtractString {
+public static void main(String[] args) {
+	String str = "public static void main";
+	String res =" ";
+	str.toString();
+	
+}
+}

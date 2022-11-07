@@ -1,0 +1,19 @@
+
+‚	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ºŞùRMINORZ
+CODE_SMELL
+l
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ÔƒÜçRMAJORZ
+CODE_SMELL
+S
+java:S1197"*Move the array designators [] to the type.(Å¹¼êRMINORZ
+CODE_SMELL
+m
+java:S2147"DCombine this catch with the one at line 13, which has the same body.(Í™°¬RMINORZ
+CODE_SMELL
+f	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÀËÑ¤ıÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(‹îÛøÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(şÒãûÿÿÿÿRMAJORZ
+CODE_SMELL

@@ -1,0 +1,60 @@
+package com.cg.accounts.entities;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.SequenceGenerator;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "account")
+
+     public class Account {
+         @Id
+         @SequenceGenerator(name="accno_seq",initialValue=112233,
+         sequenceName ="accno_seq_gen",allocationSize = 30)
+         @GeneratedValue(generator="accno_seq",strategy = GenerationType.SEQUENCE)
+         private int accountNumber;
+         @Column(name="customerName",length = 30,nullable=false)
+         private String customerName;
+         @Column(name="balance",nullable = false)
+         @JoinColumn
+         private List<Transactions> transactions = new ArrayList<Transactions>();
+		public int getAccountNumber() {
+			return accountNumber;
+		}
+		public void setAccountNumber(int accountNumber) {
+			this.accountNumber = accountNumber;
+		}
+		public String getCustomerName() {
+			return getCustomerName();
+		}
+		public void setCustomerName(String columnName) {
+			this.customerName = customerName;
+		}
+		public List<Transactions> getTransactions() {
+			return transactions;
+		}
+		public void setTransactions(List<Transactions> transactions) {
+			this.transactions = transactions;			
+		}
+		public double getBalance() {
+			return getBalance();
+		}
+		
+		public void setBalance1(double balance) {
+			// TODO Auto-generated method stub
+			
+		}
+		public void setBalance(double balance) {
+			// TODO Auto-generated method stub
+			
+		}
+         
+}

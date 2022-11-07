@@ -1,0 +1,20 @@
+package spring.annotations;
+
+public class Department {
+private int deptno;
+private int deptname;
+
+@Component
+public int getDeptno() {
+	return deptno;
+}
+public void setDeptno(int deptno) {
+	this.deptno = deptno;
+}
+public int getDeptname() {
+	return deptname;
+}
+public void setDeptname(int deptname) {
+	this.deptname = deptname;
+}
+}

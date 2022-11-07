@@ -1,0 +1,22 @@
+
+t	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Çä†RMINORZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûá ŸÿÿÿÿÿRMINORZ
+CODE_SMELL
+m
+java:S1659"?Declare "b2" and all following declarations on a separate line.(çûöùÿÿÿÿRMINORZ
+CODE_SMELL
+O
+java:S1110"!Remove these useless parentheses.(º›Œ¹ùÿÿÿÿRMAJORZ
+CODE_SMELL
+J
+java:S1110"!Remove these useless parentheses.(®RMAJORZ
+CODE_SMELL
+O
+java:S1110	"!Remove these useless parentheses.(¨º“¬üÿÿÿÿRMAJORZ
+CODE_SMELL
+H
+java:S1659"Declare "b" on a separate line.(¸²íRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ù¾ü›ûÿÿÿÿRMAJORZ
+CODE_SMELL

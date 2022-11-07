@@ -1,0 +1,14 @@
+package capgemini;
+
+public class EmployeeImplementation {
+public Employeee getEmployeeInfo(String str) {
+	
+	return new Employeee(
+		str.substring(0,str.indexOf("@)"),
+		str.substring(str.indexOf("@")+1,str.indexOf("-")),
+		str.substring(str.indexOf("-")+1,str.indexOf("#")),
+		Integer.parseInt(str.substring((str.indexOf("#")+1)))));
+	
+		}
+}
+

@@ -1,0 +1,26 @@
+
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß’Š•øÿÿÿÿRMINORZ
+CODE_SMELL
+ˆ
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰RMAJORZ
+CODE_SMELL
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æ‘™ıÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106	"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106
+"9Replace this use of System.out or System.err by a logger.(¶Â¤ÈÿÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(Ôÿ RMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ôºıRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(–ˆĞ»ıÿÿÿÿRMAJORZ
+CODE_SMELL
+`	java:S106"9Replace this use of System.out or System.err by a logger.(œ™ÀRMAJORZ
+CODE_SMELL

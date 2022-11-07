@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="project_location" value="C:\Users\SHASME\eclipse-workspace\bank---application"/>
+		<item key="use_default_location" value="true"/>
+		<item key="apply_working_sets" value="true"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(VERSION(7.4.2))"/>
+		<item key="java_home" value="C:\Program Files\Eclipse Foundation\jdk-11.0.12.7-hotspot"/>
+		<list key="working_sets">
+		</list>
+	</section>
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="C:\Users\SHASME\Downloads\usercrudsample_springboot-master"/>
+		<item key="apply_working_sets" value="true"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(VERSION(7.4.2))"/>
+		<list key="working_sets">
+		</list>
+	</section>
+</section>

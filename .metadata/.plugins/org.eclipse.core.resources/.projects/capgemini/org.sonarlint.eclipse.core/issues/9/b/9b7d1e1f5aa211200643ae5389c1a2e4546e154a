@@ -1,0 +1,22 @@
+
+[
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿRMINORZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ş…ûÿÿÿÿRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(õ¥ÉıÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ÿƒàRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¶°¹ÑüÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(à‰™õRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(õ¥ÉıÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ÿƒàRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(¶°¹ÑüÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(à‰™õRMAJORZ
+CODE_SMELL

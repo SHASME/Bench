@@ -1,0 +1,23 @@
+package capgemini;
+
+public class EmployeeImplementation {
+public Employeee getEmployeeInfo(String str) {
+	
+	return new Employeee(
+			str.substring(0,str.indexOf("@")),
+			 str.substring(str.indexOf("@")+1,str.indexOf("-")),
+			 str.substring(str.indexOf("-")+1,str.indexOf("#")),
+			 Integer.valueOf(str.substring(str.indexOf("#")+1))
+			 );
+}
+public String getEmployeeLevel(Employeee e) {
+	int ssn = Integer.parseInt(e.ssn.substring(e.ssn.length()-3));
+	if(ssn>0 && ssn <=60)
+		return "L1";
+	if(ssn >60 && ssn <=120)
+		return "L2";
+	if(ssn>120 && ssn <=180)
+		return "L3";
+	return"L4";
+}
+}

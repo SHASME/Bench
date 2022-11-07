@@ -1,0 +1,26 @@
+package capgemini;
+
+public class Ticket {
+int availableSeat = 30;
+int seat[];
+public String bookShow(int seatNumber) throws Exception{
+	int seat[] = new int[30];
+	if(availableSeat==0) {
+		throw new NoSeatAvailableException("No Seat Number");
+	}
+	if (seatNumber < 1 || seatNumber > 30) {
+		throw  new InvalidSeatNumberException("Invalid Seat Number");
+		}
+		if (seat[seatNumber] == 1) {
+		throw new SeatIsAlreadyTakenException("Seat Number is already booked");
+		}
+		else
+		availableSeat = availableSeat - 1;
+		return "Your reservation is confirmed";
+		}
+}
+
+
+
+
+

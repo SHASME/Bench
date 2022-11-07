@@ -1,0 +1,13 @@
+
+Š
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éş‰ıùÿÿÿÿH—4RMINORZ
+CODE_SMELL
+‹
+java:S1488^"_Immediately return this expression instead of assigning it to the temporary variable "emplist".(‹Ôœ“H™4RMINORZ
+CODE_SMELL
+V
+java:S1128"*Remove this unused import 'java.sql.Date'.(ÙÀ½ÊH4RMINORZ
+CODE_SMELL
+‚
+java:S1450"QRemove the "rs" field and declare it as a local variable in the relevant methods.(‰ÚèüÿÿÿÿHœ4RMINORZ
+CODE_SMELL

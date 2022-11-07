@@ -1,0 +1,10 @@
+package capgemini;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class Count {
+List strings = Arrays.asList("abc"," ","ags","wys","wsywu","","hsjs");
+long count = strings.parallelStream().filter(string->((List) string).isEmpty()).count();
+}
+

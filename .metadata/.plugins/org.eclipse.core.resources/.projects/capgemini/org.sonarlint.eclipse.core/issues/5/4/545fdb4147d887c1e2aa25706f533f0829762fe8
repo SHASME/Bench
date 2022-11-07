@@ -1,0 +1,76 @@
+
+i	java:S106S"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿHı-RMAJORZ
+CODE_SMELL
+d	java:S106Z"9Replace this use of System.out or System.err by a logger.(¡³‚Hü-RMAJORZ
+CODE_SMELL
+i	java:S106V"9Replace this use of System.out or System.err by a logger.(­¬¸—úÿÿÿÿHê-RMAJORZ
+CODE_SMELL
+i	java:S106L"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿHú-RMAJORZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(ÀÏ°ıÿÿÿÿHå-RMAJORZ
+CODE_SMELL
+d	java:S106)"9Replace this use of System.out or System.err by a logger.(Í„·“Hş-RMAJORZ
+CODE_SMELL
+k
+java:S1854":Remove this useless assignment to local variable "option".(’é®ªÿÿÿÿÿH÷-RMAJORZ
+CODE_SMELL
+i	java:S106G"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿHé-RMAJORZ
+CODE_SMELL
+~	java:S128O"LEnd this switch case with an unconditional break, return or throw statement.(è‰½ÔùÿÿÿÿHø-RBLOCKERZ
+CODE_SMELL
+i	java:S1061"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿHİ-RMAJORZ
+CODE_SMELL
+d	java:S106-"9Replace this use of System.out or System.err by a logger.(ËŞõŒHç-RMAJORZ
+CODE_SMELL
+i	java:S106I"9Replace this use of System.out or System.err by a logger.(ÀÏ°ıÿÿÿÿHÿ-RMAJORZ
+CODE_SMELL
+i	java:S1068"9Replace this use of System.out or System.err by a logger.(Ôêë²ÿÿÿÿÿHõ-RMAJORZ
+CODE_SMELL
+i	java:S106/"9Replace this use of System.out or System.err by a logger.(¬ó˜°ıÿÿÿÿHí-RMAJORZ
+CODE_SMELL
+i	java:S1067"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿHï-RMAJORZ
+CODE_SMELL
+i	java:S106c"9Replace this use of System.out or System.err by a logger.(¼ìÑ“øÿÿÿÿHñ-RMAJORZ
+CODE_SMELL
+d	java:S106g"9Replace this use of System.out or System.err by a logger.(¹Í«±Hë-RMAJORZ
+CODE_SMELL
+i	java:S106."9Replace this use of System.out or System.err by a logger.(üÓŒ¨üÿÿÿÿHî-RMAJORZ
+CODE_SMELL
+i	java:S106>"9Replace this use of System.out or System.err by a logger.(ÀÏ°ıÿÿÿÿH‚.RMAJORZ
+CODE_SMELL
+i	java:S106?"9Replace this use of System.out or System.err by a logger.(ƒ‰µÅùÿÿÿÿHò-RMAJORZ
+CODE_SMELL
+i	java:S106`"9Replace this use of System.out or System.err by a logger.(ãŞïàıÿÿÿÿHö-RMAJORZ
+CODE_SMELL
+i	java:S106P"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿH€.RMAJORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿHù-RMAJORZ
+CODE_SMELL
+c	java:S106&"9Replace this use of System.out or System.err by a logger.(óÁëuH.RMAJORZ
+CODE_SMELL
+d	java:S106("9Replace this use of System.out or System.err by a logger.(¶øœÌHì-RMAJORZ
+CODE_SMELL
+i	java:S106:"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿHó-RMAJORZ
+CODE_SMELL
+i	java:S106C"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿHæ-RMAJORZ
+CODE_SMELL
+i	java:S106#"9Replace this use of System.out or System.err by a logger.(ÎĞÅ†ùÿÿÿÿHè-RMAJORZ
+CODE_SMELL
+b
+java:S1135^"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHô-RINFOZ
+CODE_SMELL
+i	java:S106R"9Replace this use of System.out or System.err by a logger.(ÀÏ°ıÿÿÿÿHß-RMAJORZ
+CODE_SMELL
+d	java:S106""9Replace this use of System.out or System.err by a logger.(µ¨–³HŞ-RMAJORZ
+CODE_SMELL
+’
+java:S1192>"^Define a constant instead of duplicating this literal "-----------------------------" 4 times.(ÀÏ°ıÿÿÿÿHà-RCRITICALZ
+CODE_SMELL
+i	java:S106%"9Replace this use of System.out or System.err by a logger.(Ïª‹ÒşÿÿÿÿHƒ.RMAJORZ
+CODE_SMELL
+i	java:S106'"9Replace this use of System.out or System.err by a logger.(Î©üíıÿÿÿÿHÜ-RMAJORZ
+CODE_SMELL
+i	java:S1069"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿHğ-RMAJORZ
+CODE_SMELL
+d	java:S106H"9Replace this use of System.out or System.err by a logger.(÷ÛåĞHû-RMAJORZ
+CODE_SMELL

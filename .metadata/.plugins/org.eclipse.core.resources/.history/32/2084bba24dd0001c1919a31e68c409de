@@ -1,0 +1,13 @@
+package capgemini;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class StringToUppercase {
+public static void main(String[] args) {
+	List<String> names = Arrays.asList("dgtftftygyygtgfdsefrdrftgy");
+	names.stream().map(name ->name.toUpperCase()).forEach(name ->System.out.println(name + " "));
+	
+	System.out.println("Comma join String :  "+ names);
+}
+}

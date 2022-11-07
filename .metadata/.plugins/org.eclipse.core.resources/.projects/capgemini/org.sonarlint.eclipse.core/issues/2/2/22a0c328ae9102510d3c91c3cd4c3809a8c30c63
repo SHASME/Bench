@@ -1,0 +1,22 @@
+
+u	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÊÕ¼ÀRMINORZ
+CODE_SMELL
+‚	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áèÖRMINORZ
+CODE_SMELL
+y
+java:S3973"HUse indentation to denote the code conditionally executed by this "for".(¥¿…ÊüÿÿÿÿRCRITICALZ
+CODE_SMELL
+X
+java:S1197"*Move the array designators [] to the type.(õùÇ—şÿÿÿÿRMINORZ
+CODE_SMELL
+‚
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ŒŸ±RMINORZ
+CODE_SMELL
+S
+java:S1197"*Move the array designators [] to the type.(ŒüıÜRMINORZ
+CODE_SMELL
+O
+java:S1481"&Remove this unused "j" local variable.(èê»RMINORZ
+CODE_SMELL
+a	java:S106 "9Replace this use of System.out or System.err by a logger.(ØÔıïRMAJORZ
+CODE_SMELL

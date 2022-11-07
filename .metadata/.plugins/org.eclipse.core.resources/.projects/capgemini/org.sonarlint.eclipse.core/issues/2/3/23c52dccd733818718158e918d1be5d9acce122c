@@ -1,0 +1,20 @@
+
+X
+java:S3740"/Provide the parametrized type for this generic.(ìò‹¬RMAJORZ
+CODE_SMELL
+‚
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(åâäRMINORZ
+CODE_SMELL
+~	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†˜›’øÿÿÿÿRMINORZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ş…ûÿÿÿÿRMINORZ
+CODE_SMELL
+g
+java:S1854#"9Remove this useless assignment to local variable "count".(ßáÜ¬ÿÿÿÿÿRMAJORZ
+CODE_SMELL
+š
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤ŞıÿÿÿÿRMINORZ
+CODE_SMELL
+X
+java:S1481#"*Remove this unused "count" local variable.(ßáÜ¬ÿÿÿÿÿRMINORZ
+CODE_SMELL

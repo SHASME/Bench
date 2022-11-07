@@ -1,0 +1,14 @@
+
+w	java:S112%"FDefine and throw a dedicated exception instead of using a generic one.(ïóÞ8ê¬Üž¾0H§MRMAJORZ
+CODE_SMELL
+x	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(ÿí ·8ê¬Üž¾0H¨MRMAJORZ
+CODE_SMELL
+
+java:S3008""LRename this field "B" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ˆ¢›8ê¬Üž¾0H©MRMINORZ
+CODE_SMELL
+
+java:S3008""LRename this field "H" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ˆ¢›8ê¬Üž¾0HªMRMINORZ
+CODE_SMELL
+R
+java:S1659""Declare "H" on a separate line.(­ˆ¢›8ê¬Üž¾0H«MRMINORZ
+CODE_SMELL

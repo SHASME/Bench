@@ -1,0 +1,58 @@
+package assignment;
+
+
+
+import java.util.regex.Pattern;
+
+public class EmailOperations {
+public static int emailVerify(Email e) {
+	String string ="^([a-zA-Z]{1}[a-zA-Z]+)@([a-zA-Z]+)\\.([a-zA-Z]{2,30})$";
+	int value;
+	boolean m1,m2;
+	m1 = Pattern.matches(string,e.header.from);
+	m2 = Pattern.matches(string,e.header.to);
+	if (m1&&m2 ==true)
+		value=2;
+	else if(m1||m2 ==true)
+   value=1;
+	else
+		value=0;
+	System.out.println(value);
+	return value;
+}
+public static String bodyEncryption(Email e) {
+	StringBuffer result =new StringBuffer();
+	for (int i = 0; i<((String) e.body).length(); i++)
+	{
+		if(Character.isUpperCase(((String) e.body).charAt(i)))
+		{
+			char ch =(char)(((int)((String) e.body).charAt(i) + 3  -  65) % 26 + 65);
+			result.append(ch);
+		}
+		else
+		{
+			char ch =(char)(((int)((String) e.body).charAt(i)+ 3  -  97) % 26 + 97);
+			result.append(ch);
+		}
+		}
+	//System.out.println(result.toString());
+	return result.toString();
+		}
+public static String greetingMessage(Email e) {
+	String string1=e.greetings;
+	String string2=e.header.from;
+	int i=string2.indexOf("@");
+	StringBuffer sb=new StringBuffer();
+	sb.append(string2);
+	StringBuffer sb2=sb.delete(i, sb.length());
+	String concat=string1.concat(" ").concat(sb.toString());
+	//System.out.println(concat);
+	return concat;
+	
+}
+}
+
+
+	
+
+

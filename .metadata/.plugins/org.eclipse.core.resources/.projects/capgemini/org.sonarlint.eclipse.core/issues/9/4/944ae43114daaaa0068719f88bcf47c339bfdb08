@@ -1,0 +1,136 @@
+
+…
+java:S1192+"TDefine a constant instead of duplicating this literal "Product Development" 3 times.(”ÎìğıÿÿÿÿRCRITICALZ
+CODE_SMELL
+x
+java:S1192"GDefine a constant instead of duplicating this literal "Female" 5 times.(ÿ‚©êşÿÿÿÿRCRITICALZ
+CODE_SMELL
+~	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñş—òùÿÿÿÿRMINORZ
+CODE_SMELL
+y	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£øìÖRMINORZ
+CODE_SMELL
+y	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñºá“RMINORZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ş…ûÿÿÿÿRMINORZ
+CODE_SMELL
+x
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(€³¸úÿÿÿÿRCRITICALZ
+CODE_SMELL
+x
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(¯„ˆ¿úÿÿÿÿRCRITICALZ
+CODE_SMELL
+x
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(’çéãùÿÿÿÿRCRITICALZ
+CODE_SMELL
+s
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(‚Ö‹¶RCRITICALZ
+CODE_SMELL
+x
+java:S3973*"GUse indentation to denote the code conditionally executed by this "if".(È–˜ÑşÿÿÿÿRCRITICALZ
+CODE_SMELL
+s
+java:S3973,"GUse indentation to denote the code conditionally executed by this "if".(„ê»RCRITICALZ
+CODE_SMELL
+r
+java:S3973."GUse indentation to denote the code conditionally executed by this "if".(¨³£,RCRITICALZ
+CODE_SMELL
+x
+java:S39730"GUse indentation to denote the code conditionally executed by this "if".(¾‘ÍƒøÿÿÿÿRCRITICALZ
+CODE_SMELL
+x
+java:S39732"GUse indentation to denote the code conditionally executed by this "if".(Åù¬¯şÿÿÿÿRCRITICALZ
+CODE_SMELL
+x
+java:S39734"GUse indentation to denote the code conditionally executed by this "if".(²ñÓÿÿÿÿÿRCRITICALZ
+CODE_SMELL
+µ
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¯„ˆ¿úÿÿÿÿRMAJORZ
+CODE_SMELL
+°
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¿¡‚üRMAJORZ
+CODE_SMELL
+°
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(‚Ö‹¶RMAJORZ
+CODE_SMELL
+°
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(èĞ†ÉRMAJORZ
+CODE_SMELL
+°
+java:S2681,"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(„ê»RMAJORZ
+CODE_SMELL
+¯
+java:S2681."†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¨³£,RMAJORZ
+CODE_SMELL
+µ
+java:S26810"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¾‘ÍƒøÿÿÿÿRMAJORZ
+CODE_SMELL
+µ
+java:S26812"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Åù¬¯şÿÿÿÿRMAJORZ
+CODE_SMELL
+µ
+java:S26814"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(²ñÓÿÿÿÿÿRMAJORZ
+CODE_SMELL
+°
+java:S26816"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¿¡‚üRMAJORZ
+CODE_SMELL
+h
+java:S1118	":Add a private constructor to hide the implicit public one.(¨€ ½ıÿÿÿÿRMAJORZ
+CODE_SMELL
+b
+java:S1611"4Remove the parentheses around the "gender" parameter(ÿ‚©êşÿÿÿÿRMINORZ
+CODE_SMELL
+b
+java:S1611"4Remove the parentheses around the "gender" parameter(³¿‚üÿÿÿÿRMINORZ
+CODE_SMELL
+b
+java:S1611"4Remove the parentheses around the "gender" parameter(ÕÉ„‡øÿÿÿÿRMINORZ
+CODE_SMELL
+_
+java:S1611"1Remove the parentheses around the "age" parameter(ÕÉ„‡øÿÿÿÿRMINORZ
+CODE_SMELL
+k
+java:S1612"=Replace this lambda with method reference 'Candidat::getAge'.(ÕÉ„‡øÿÿÿÿRMINORZ
+CODE_SMELL
+b
+java:S1611"4Remove the parentheses around the "gender" parameter(¾„“”ùÿÿÿÿRMINORZ
+CODE_SMELL
+_
+java:S1611"1Remove the parentheses around the "age" parameter(¾„“”ùÿÿÿÿRMINORZ
+CODE_SMELL
+f
+java:S1612"=Replace this lambda with method reference 'Candidat::getAge'.(ñ¤µÒRMINORZ
+CODE_SMELL
+c
+java:S1611""5Remove the parentheses around the "product" parameter(Ú¢„ÑúÿÿÿÿRMINORZ
+CODE_SMELL
+^
+java:S1611#"0Remove the parentheses around the "sm" parameter(Ñş—òùÿÿÿÿRMINORZ
+CODE_SMELL
+Y
+java:S1611$"0Remove the parentheses around the "st" parameter(£øìÖRMINORZ
+CODE_SMELL
+Y
+java:S1611%"0Remove the parentheses around the "st" parameter(˜€àRMINORZ
+CODE_SMELL
+b
+java:S1611'"4Remove the parentheses around the "infras" parameter(»êÿ±şÿÿÿÿRMINORZ
+CODE_SMELL
+Y
+java:S1611("0Remove the parentheses around the "af" parameter(Ñºá“RMINORZ
+CODE_SMELL
+[
+java:S16119"2Remove the parentheses around the "male" parameter(±öŞÚRMINORZ
+CODE_SMELL
+a
+java:S1611:"8Remove the parentheses around the "department" parameter(ÎÇ“RMINORZ
+CODE_SMELL
+N
+java:S2201<"'The return value of "get" must be used.(èóºÿÿÿÿÿRMAJORZBUG
+`
+java:S1611>"2Remove the parentheses around the "male" parameter(œ‹õÍüÿÿÿÿRMINORZ
+CODE_SMELL
+f
+java:S1611?"8Remove the parentheses around the "department" parameter(›Ïè¥úÿÿÿÿRMINORZ
+CODE_SMELL
+I
+java:S2201B"'The return value of "get" must be used.(Š€•‘RMAJORZBUG

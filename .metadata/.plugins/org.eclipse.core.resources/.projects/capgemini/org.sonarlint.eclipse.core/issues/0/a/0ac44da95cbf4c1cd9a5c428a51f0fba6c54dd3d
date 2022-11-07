@@ -1,0 +1,23 @@
+
+u	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«°æ¥RMINORZ
+CODE_SMELL
+[
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿRMINORZ
+CODE_SMELL
+‡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûá ŸÿÿÿÿÿRMINORZ
+CODE_SMELL
+v
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Å·–ÅûÿÿÿÿRBLOCKERZBUG
+k
+java:S1659"BDeclare "chars" and all following declarations on a separate line.(ì÷šÚRMINORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(êƒîÿÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ¨½€ùÿÿÿÿRMAJORZ
+CODE_SMELL
+f	java:S106"9Replace this use of System.out or System.err by a logger.(šå½ıÿÿÿÿÿRMAJORZ
+CODE_SMELL
+a	java:S106 "9Replace this use of System.out or System.err by a logger.(Øê§€RMAJORZ
+CODE_SMELL
+f	java:S106$"9Replace this use of System.out or System.err by a logger.(Ã¶ÏûÿÿÿÿRMAJORZ
+CODE_SMELL

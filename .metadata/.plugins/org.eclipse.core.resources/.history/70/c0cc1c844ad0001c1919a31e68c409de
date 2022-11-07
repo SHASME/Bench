@@ -1,0 +1,20 @@
+package capgemini;
+
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+public class StreamStatistics {
+public static void main(String[] args) {
+	List<Integer> num = Arrays.asList(2,3,4,5,5,8,262,83,-1,-2,4,-8,0);
+	int max = num.stream().mapToInt(n->n).max().getAsInt();
+	int min = num.stream().mapToInt(n->n).min().getAsInt();
+	Double avg =num.stream().mapToInt(n->n).average().getAsDouble();
+	
+	Map<String, Number> result = new HashMap<>();
+	result.put("max", max);
+	result.put("min", min);
+    result.put("avg", avg);
+}
+}

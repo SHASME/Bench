@@ -1,0 +1,14 @@
+
+X
+java:S1197"*Move the array designators [] to the type.(С‹¦РшяяяяRMINORZ
+CODE_SMELL
+N
+java:S2129" Remove this "String" constructor(ьФРЃщяяяяRMAJORZ
+CODE_SMELL
+a	java:S106	"9Replace this use of System.out or System.err by a logger.(О’ЫЪRMAJORZ
+CODE_SMELL
+`	java:S106
+"9Replace this use of System.out or System.err by a logger.(њ™АRMAJORZ
+CODE_SMELL
+a	java:S106"9Replace this use of System.out or System.err by a logger.(ллўШRMAJORZ
+CODE_SMELL

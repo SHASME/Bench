@@ -1,0 +1,17 @@
+
+^
+java:S1128"+Remove this unused import 'java.util.Date'.(∏Öº¸8œ¢í–è0H…1RMINORZ
+CODE_SMELL
+p
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(§Æ¿Ç8œ¢í–è0HÀ1RMINORZ
+CODE_SMELL
+p
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(˝˜ı°8œ¢í–è0HÕ1RMINORZ
+CODE_SMELL
+l
+java:S1128
+"9Remove this unused import 'javax.persistence.JoinColumn'.(¥≈º·8œ¢í–è0Hœ1RMINORZ
+CODE_SMELL
+j
+java:S1128"7Remove this unused import 'javax.persistence.OneToOne'.(ÿΩÔ‚8œ¢í–è0H—1RMINORZ
+CODE_SMELL

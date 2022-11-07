@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;bank.application&apos; to &apos;com.cg.bank.application&apos;&#x0D;&#x0A;- Original project: &apos;bank.application-lib&apos;&#x0D;&#x0A;- Original element: &apos;bank.application-lib/src/main/java/bank.application&apos;&#x0D;&#x0A;- Renamed element: &apos;bank.application-lib/src/main/java/com.cg.bank.application&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;bank.application&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;bank.application" name="com.cg.bank.application" qualified="false" references="true" stamp="1657713878450" textual="false" version="1.0"/>
+</session>

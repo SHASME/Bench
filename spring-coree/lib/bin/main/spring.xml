@@ -1,0 +1,35 @@
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+     http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+     http://www.springframework.org/schema/context
+     http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+     <context:annotation-config></context:annotation-config>
+     <context:component-scan base-package="spring.annotations"></context:component-scan>
+     <bean id="emp" class="spring.coree.Employee">
+     <constructor-arg name ="code" value="350"></constructor-arg>
+      <constructor-arg name ="empname" value="shashiu"></constructor-arg>
+     </bean>
+     <!-- <property name="code" value="450"></property>
+     <property name="empname" value="cap-gemini"></property> -->
+     
+     
+      <bean id="cust" class="spring.coree.Customer" scope="prototype">  
+     	<property name="code" value="1194"></property>
+     	<property name="custname" value="shashi"></property>
+     	<property name="commn" value="6000"></property>  
+     </bean>
+     <bean id="student" class="spring.coree.Student" autowire="byType"> 
+     	<property name="rno" value="6447"></property>
+     	<property name="stdname" value="Charlie"></property>
+     	<property name="group" value="CSE"></property>
+     	<!-- <property name="address" ref="addr"></property> --> <!-- manual wiring -->
+     </bean>
+      <bean id="addr" class="spring.coree.Address">
+     	<property name="street" value="Hebbal"></property>
+     	<property name="city" value="Bangalore"></property>  
+     </bean>
+     
+</beans>

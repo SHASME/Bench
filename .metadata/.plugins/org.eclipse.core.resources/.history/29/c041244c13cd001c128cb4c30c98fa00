@@ -1,0 +1,5 @@
+package cg.jpb;
+
+public class Employee {
+private int empcode;
+}

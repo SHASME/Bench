@@ -1,0 +1,9 @@
+package capgemini;
+
+public class BusSeatAvailability extends Ticket {
+public static void main(String[] args) throws Exception{
+	BusSeatAvailability a1 = new BusSeatAvailability();
+	a1.bookShow(29);
+	
+}
+}

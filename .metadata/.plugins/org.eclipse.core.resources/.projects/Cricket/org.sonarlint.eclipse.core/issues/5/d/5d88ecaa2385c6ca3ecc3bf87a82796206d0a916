@@ -1,0 +1,15 @@
+
+b
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ÎÄ—£½0HÈLRMINORZ
+CODE_SMELL
+
+java:S1192"SDefine a constant instead of duplicating this literal "Enter current Over" 3 times.(›Ñÿÿÿÿÿ8ÎÄ—£½0HÀLRCRITICALZ
+CODE_SMELL
+‰
+java:S1192"SDefine a constant instead of duplicating this literal "Enter Target Score" 3 times.(÷ËÁ¸8ÎÄ—£½0HÄLRCRITICALZ
+CODE_SMELL
+Š
+java:S1192"TDefine a constant instead of duplicating this literal "Enter Current Score" 3 times.(â¶”Ú8ÎÄ—£½0HËLRCRITICALZ
+CODE_SMELL
+€	java:S1285"LEnd this switch case with an unconditional break, return or throw statement.(ÊİË¾8ÎÄ—£½0H¿LRBLOCKERZ
+CODE_SMELL
